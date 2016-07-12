@@ -77,3 +77,6 @@ deploy:
   type: git
   repository: git@github.com:gameu3d/gameu3d.github.io.git
   branch: master
+
+math:
+  engine: 'mathjax' # or 'katex'
